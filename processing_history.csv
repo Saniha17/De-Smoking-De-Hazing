@@ -1,0 +1,26 @@
+Date,File,Method,Time (s),Clarity Gain
+2026-10-20 23:53:41,WhatsApp Image 2026-10-14 at 00.48.49 (2).jpeg,Advanced Baseline (Guided DCP),0.1,+0%
+2026-10-20 23:53:53,WhatsApp Image 2026-10-14 at 00.48.49.jpeg,Advanced Baseline (Guided DCP),0.06,+0%
+2026-10-20 23:55:18,WhatsApp Image 2026-10-14 at 01.34.14.jpeg,Advanced Baseline (Guided DCP),0.1,+0%
+2026-10-20 23:58:14,WhatsApp Image 2026-10-14 at 00.48.49 (1).jpeg,Advanced Baseline (Guided DCP),0.03,+4.8%
+2026-10-21 00:16:57,WhatsApp Image 2026-10-14 at 01.34.14.jpeg,Advanced Baseline (Guided DCP),0.15,+0%
+2026-10-21 00:17:35,WhatsApp Image 2026-10-14 at 01.34.14 (1).jpeg,Advanced Baseline (Guided DCP),0.1,+0%
+2026-10-21 00:33:16,WhatsApp Image 2026-10-21 at 00.32.12.jpeg,Advanced Baseline (Guided DCP),0.44,+0%
+2026-10-21 00:33:55,WhatsApp Image 2026-10-21 at 00.32.12.jpeg,AI Deep Learning (DehazeNet),2.4,+0%
+2026-10-21 00:35:35,WhatsApp Image 2026-10-21 at 00.32.13.jpeg,AI Deep Learning (DehazeNet),2.08,+0%
+2026-10-21 00:36:04,WhatsApp Image 2026-10-21 at 00.32.12 (2).jpeg,AI Deep Learning (DehazeNet),1.66,+0%
+2026-10-21 00:36:30,WhatsApp Image 2026-10-21 at 00.32.12 (1).jpeg,AI Deep Learning (DehazeNet),1.55,+0%
+2026-10-21 00:36:48,WhatsApp Image 2026-10-21 at 00.32.12 (1).jpeg,Advanced Baseline (Guided DCP),0.38,+0%
+2026-11-13 17:08:29,WhatsApp Image 2026-11-13 at 5.07.51 PM.jpeg,Advanced Baseline (Guided DCP),0.14,+0%
+2026-11-13 17:10:23,WhatsApp Image 2026-11-13 at 5.09.55 PM.jpeg,Advanced Baseline (Guided DCP),0.15,+61.7%
+2026-11-13 17:11:40,WhatsApp Image 2026-11-13 at 5.11.16 PM.jpeg,Advanced Baseline (Guided DCP),0.11,+1.3%
+2026-11-14 11:01:03,WhatsApp Image 2026-11-13 at 5.09.55 PM.jpeg,Advanced Baseline (Guided DCP),0.3,+61.7%
+2026-11-14 11:01:17,WhatsApp Image 2026-11-13 at 5.09.55 PM.jpeg,AI Deep Learning (DehazeNet),2.01,+61.7%
+2026-11-14 11:01:29,WhatsApp Image 2026-11-13 at 5.09.55 PM.jpeg,Advanced Baseline (Guided DCP),0.22,+61.7%
+2026-11-14 11:50:39,WhatsApp Image 2026-11-13 at 5.09.55 PM.jpeg,Advanced Baseline (Guided DCP),0.41,+61.7%
+2026-11-14 11:51:28,WhatsApp Image 2026-11-13 at 5.09.55 PM.jpeg,AI Deep Learning (DehazeNet),2.73,+61.7%
+2026-11-14 11:59:38,WhatsApp Image 2026-11-13 at 5.09.55 PM.jpeg,Advanced Baseline (Guided DCP),0.37,+61.7%
+2026-11-14 12:00:14,WhatsApp Image 2026-11-13 at 5.09.55 PM.jpeg,AI Deep Learning (DehazeNet),2.83,+61.7%
+2026-11-14 12:00:43,WhatsApp Image 2026-11-13 at 5.07.51 PM.jpeg,AI Deep Learning (DehazeNet),1.44,+0%
+2026-11-14 12:00:55,WhatsApp Image 2026-11-13 at 5.07.51 PM.jpeg,Advanced Baseline (Guided DCP),0.13,+0%
+2026-11-14 14:05:23,WhatsApp Image 2026-11-13 at 5.09.55 PM.jpeg,Advanced Baseline (Guided DCP),0.35,+61.7%
